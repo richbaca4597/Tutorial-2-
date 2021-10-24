@@ -39,6 +39,7 @@
      <Compile Include="Assets\Scripts\Playerscript.cs" />
      <Compile Include="Assets\Scripts\Camerascript.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\EnemyMove.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
